@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project applies Python’s Pandas, NumPy, Matplotlib, and Seaborn libraries to conduct in-depth data analysis on 
+This project applies Python’s pandas, NumPy, Matplotlib, and Seaborn libraries to conduct in-depth data analysis on 
 a simulated airline database documented [here](https://github.com/data-analysis-colab/database_creation_airline_python/blob/master/README.md).
 The analysis focuses on topics that receive limited attention in the corresponding [SQL-based project](https://github.com/data-analysis-colab/analysis_synth_airline_data_sql/blob/master/README.md), including 
 cohort analysis, passenger class profitability, aircraft utilization, and customer behavior.
