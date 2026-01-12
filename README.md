@@ -1,4 +1,4 @@
-# Airline Data Analysis (Pandas)
+# Airline Data Analysis (pandas)
 
 ## Introduction
 
